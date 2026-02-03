@@ -1,0 +1,111 @@
+
+a:any-link {
+  text-decoration: none;
+}
+
+
+.banner {
+  display: flex;
+  background-color: lightpink;
+  flex-direction: column;
+  padding-left: 15px;
+}
+
+.banner_otsikko {
+  display: flex;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.banner__sivun-sisalto {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+
+.banner__sisalto {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.banner__sisalto__tiedot {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding-bottom: 10px;
+}
+
+.banner__sisalto__teksti {
+  display: flex;
+  max-width: 400px;
+}
+
+
+.banner__sisalto__linkki {
+  display: flex;
+  padding-bottom: 5px;
+}
+
+.responsiivisuus {
+  display: flex;
+  flex-direction: column;
+}
+
+.responsiivisuus__otsikko {
+  display: flex;
+}
+
+.responsiivisuus__teksti {
+  display: flex;
+  max-width: 400px;
+}
+
+.Github_user {
+  display: flex;
+  flex-direction: row;
+}
+
+.Github_username {
+  display: flex;
+}
+
+.Github_link {
+  display: flex;
+  padding-left: 5px;
+}
+
+.Resources__sisalto {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.Resources__sisalto__teksti {
+  display: flex;
+}
+
+.Resources__sisalto__linkki {
+  display: flex;
+}
+
+.dancing_cat {
+  display: flex;
+  justify-content: ;
+  padding-right: 25px;
+}
+
+.dancing_cat_gift {
+  display: flex;
+}
+
+.dancing_cat_gift img {
+  width: 30px;
+}
+
+.user_and_gift {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
